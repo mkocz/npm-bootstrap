@@ -163,3 +163,20 @@ header {
     margin-top: 8px;
     font-size: 14px;
 }
+
+// Portfolio
+
+.portfolio {
+    background: $color-3;
+}
+
+.card-image img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}
+
+.card-body {
+    background: $color-white;
+    padding: 24px;
+}
