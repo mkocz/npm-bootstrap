@@ -1,0 +1,13 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 79 28" width="79" height="28">
+    <title>zadanie-golden</title>
+    <defs>
+        <image width="79" height="28" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE8AAAAcBAMAAADSAP/sAAAAAXNSR0IB2cksfwAAADBQTFRF/tE2/tE2/tE2/tE2/tE2/tE2/tE2/tE2/tE2/tE2/tE2/tE2/tE2/tE2/tE2/tE2+3DIjQAAABB0Uk5TACKZ7v/Md0QzqrtmEVXdiPACud8AAAMMSURBVHicjZNtSJNRFMfPs3SbzrfmzIwl00aJPYk4a023MZ3RRlLDNMOXEJ1R9BQKEmqbjloZNlJhlZIfFgwDEfJ1bnNs0LaM2CT9ksQ0NaGMKUPFEIO6j5TsU/PC5cC5v3te/udeDMjFTE3th/8vDOo6gY7HQWHdnq89pYQ0ET3XgkGGZAycmuYXm+Y9n1HGIo3yqyUYjD87BlzWe1aW9Z8rmk8okIlKI6qCQa7QQBOxDWH5e+CUykSa2NOeQDC4jAfC5cOgde2l/psyKMcuWGCD0Z4RUKo4ALSbncjD8y8A1HcYu10AbQIJWUVtB4roK0TF0HGVAqgZR7I0QMnzBqBm0XKeUESVLm47IUaYtKjLRDX2iYUat3YcgJtc1PsRGmasEJGLIk+AuzV2ZxiUP2CrogpjCSYz7LS5RiNQxUSx1LIrzmbRw6YDFtCPv+XbMN7B2RNsA8YQGK52lSa3SICVYWdlmxkCQkETDSSKfAvRfHafdJyS71vJUUswmL+O0jzJRDp3u7g2DilOuFgtz/EGYiTDTq2lYXqCrAaDGH6tqkyDWhaxX4sIhXLZDMpvY+QZ0klfEYdKKdZxEEjKRqt/DOh++DkTKQ45E3SG8UY2btgZAvylQJeJwGw0KQSbB1ZGNy67Kz+rZWVLni2xTnhlCSKry81tJlQNw43RREgjHnErd424c8ZX4mBanV3r1ni+iZLFnN4OjA7OOVCYBhVGFduQXh5jUyKulywerRbi8ksyjmzVcSxvzgGxwm2fP83/PX0KgapC2bqb7xLbtO8K7+PE/Ac/kdDq6799as5B701oV18QeIzEAoZJmd6U1Rp2Jb/8mS2OLrxoblGVP/998ku+Pufwml43Y6WKTSVDqJmRrq3IWH0ScDk/3WiM6UwD2sUdlrDoT1WJQ7O/OFGyreOdCITGaMd6uwTob+ToodAbNeSOUpLv6J5294XRIgLknwH7I0qzJMTXIsGnEzu+hZAcYFiW1KsOHRAwSoH6gTU0B1hEziticD8gHT90dx+ZUTOT8kBoDOAPwBcb7BLvFkAAAAAASUVORK5CYII=" />
+    </defs>
+    <style>
+    </style>
+    <g id="Header">
+        <g id="Logo">
+            <use id="Logo-Treehouse" href="#img1" x="0" y="0" />
+        </g>
+    </g>
+</svg>

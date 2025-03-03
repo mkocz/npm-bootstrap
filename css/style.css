@@ -1,0 +1,112 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body {
+  margin: 0;
+  font-size: 16px;
+  font-family: "Lora", serif;
+  line-height: 1.7;
+  color: #333333;
+}
+
+section {
+  padding: 96px 0;
+  text-align: center;
+}
+
+.wrapper {
+  max-width: 1140px;
+  padding: 0 20px;
+  margin: 0 auto;
+}
+
+.page-title,
+.menu-item,
+.btn {
+  font-family: "Montserrat", sans-serif;
+}
+
+.btn {
+  display: inline-block;
+  margin: 32px auto 0;
+  padding: 16px 32px;
+  font-size: 18px;
+  font-weight: bold;
+  border-radius: 5px;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  background: #fed136;
+  color: #fff;
+}
+
+.navigation {
+  padding: 12px 0;
+}
+
+.navigation .wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo {
+  height: -moz-fit-content;
+  height: fit-content;
+  margin-right: 20px;
+}
+
+.menu {
+  padding: 0 0 36px;
+  margin: 0;
+  list-style-type: none;
+  text-align: right;
+}
+
+.menu-item {
+  position: relative;
+  display: inline-block;
+  margin-right: 36px;
+}
+
+.menu-item a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.menu-item a:hover {
+  color: #fed136;
+}
+
+header {
+  background-image: url("https://i.postimg.cc/tJhfL8YT/pexels-lood-goosen-508841-1235717.jpg");
+  background-size: cover;
+  background-position: center center;
+  color: #fff;
+  padding-top: 20px;
+  height: 90vh;
+}
+
+.splash-inner {
+  margin: 8% auto;
+  text-align: center;
+}
+
+.page-title {
+  font-size: 72px;
+  line-height: 1.2;
+  font-family: "Montserrat", sans-serif;
+  letter-spacing: 0.25;
+}
+
+.page-subtitle {
+  margin: 24px 0;
+  font-size: 40px;
+  font-weight: 400;
+  font-style: italic;
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3Nhc3Mvc3R5bGUuc2NzcyIsInN0eWxlLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFjQTs7O0VBR0ksc0JBQUE7RUFDQSxTQUFBO0FDYko7O0FEZ0JBO0VBQ0ksU0FBQTtFQUNBLGVBQUE7RUFDQSwwQkFmUTtFQWdCUixnQkFBQTtFQUNBLGNBcEJjO0FDT2xCOztBRGdCQTtFQUNJLGVBQUE7RUFDQSxrQkFBQTtBQ2JKOztBRGdCQTtFQUNJLGlCQUFBO0VBQ0EsZUFBQTtFQUNBLGNBQUE7QUNiSjs7QURnQkE7OztFQUdJLHFDQXBDVTtBQ3VCZDs7QURnQkE7RUFDSSxxQkFBQTtFQUNBLG1CQUFBO0VBQ0Esa0JBQUE7RUFDQSxlQUFBO0VBQ0EsaUJBQUE7RUFDQSxrQkFBQTtFQUNBLGtCQUFBO0VBQ0EscUJBQUE7RUFDQSxlQUFBO0VBQ0EsbUJBdERNO0VBdUROLFdBcERVO0FDdUNkOztBRGtCQTtFQUNJLGVBQUE7QUNmSjs7QURrQkE7RUFDSSxhQUFBO0VBQ0EsOEJBQUE7QUNmSjs7QURrQkE7RUFDSSx3QkFBQTtFQUFBLG1CQUFBO0VBQ0Esa0JBQUE7QUNmSjs7QURrQkE7RUFDSSxpQkFBQTtFQUNBLFNBQUE7RUFDQSxxQkFBQTtFQUNBLGlCQUFBO0FDZko7O0FEa0JBO0VBQ0ksa0JBQUE7RUFDQSxxQkFBQTtFQUNBLGtCQUFBO0FDZko7O0FEa0JBO0VBQ0kscUJBQUE7RUFDQSxXQXRGVTtBQ3VFZDs7QURrQkE7RUFDSSxjQTdGTTtBQzhFVjs7QURvQkE7RUFDSSw0RkFBQTtFQUNBLHNCQUFBO0VBQ0Esa0NBQUE7RUFDQSxXQW5HVTtFQW9HVixpQkFBQTtFQUNBLFlBQUE7QUNqQko7O0FEb0JBO0VBQ0ksZUFBQTtFQUNBLGtCQUFBO0FDakJKOztBRG9CQTtFQUNJLGVBQUE7RUFDQSxnQkFBQTtFQUNBLHFDQTlHVTtFQStHVixvQkFBQTtBQ2pCSjs7QURvQkE7RUFDSSxjQUFBO0VBQ0EsZUFBQTtFQUNBLGdCQUFBO0VBQ0Esa0JBQUE7QUNqQkoiLCJmaWxlIjoic3R5bGUuY3NzIn0= */
