@@ -39,6 +39,8 @@ section {
 }
 
 .page-title,
+.section-title,
+.card-title,
 .menu-item,
 .btn {
     font-family: $font-header;
@@ -56,6 +58,16 @@ section {
     cursor: pointer;
     background: $color-1;
     color: $color-white;
+}
+
+.section-subtitle {
+    margin-bottom: 48px;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.section-title {
+    font-size: 40px;
 }
 
 //  Navigation
@@ -126,3 +138,28 @@ header {
     font-style: italic;
 }
 
+// Services
+
+.card {
+    padding: 16px;
+    margin-bottom: 24px;
+}
+
+.card > img {
+    margin-bottom: 24px;
+}
+
+.card-title {
+    font-size: 18px;
+}
+
+.card-subtitle {
+    font-size: 14px;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.card p {
+    margin-top: 8px;
+    font-size: 14px;
+}
